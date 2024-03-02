@@ -1,0 +1,1 @@
+A mobile application that helps users track their health and fitness goals. It allows users to log their daily activities, monitor their calorie intake, set exercise targets, and receive personalized recommendations for a healthier lifestyle.

@@ -1,0 +1,26 @@
+{
+"name": "5ealth3rackerypp",
+"version": "1.0.0",
+"description": "A mobile application that helps users track their health and fitness goals. It allows users to log their daily activities, monitor their calorie intake, set exercise targets, and receive personalized recommendations for a healthier lifestyle.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/ubriii1/HealthTrackerApp.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "ubriii1",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
